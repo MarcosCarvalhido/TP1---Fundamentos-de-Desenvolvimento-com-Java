@@ -1,8 +1,8 @@
-import java.awt.List;
+// import java.awt.List;
 import java.text.MessageFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.*;
+// import java.util.*;
 public class Turma {
   static Scanner userInput = new Scanner(System.in);
   private boolean adcionar = true;
