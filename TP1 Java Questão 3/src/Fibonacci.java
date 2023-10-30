@@ -34,7 +34,7 @@ public class Fibonacci {
     public void razãoAurea(double ultimo, double perultimo, int repetições){
         double aurea = (ultimo + perultimo) / ultimo;
         System.out.println("A razão aurea é uma constante matematica calculada dividindo a soma dos dois ultimos valores de uma sequencia de Fibonacci pelo ultimo valor.");
-        System.out.println(MessageFormat.format("Em uma sequencia de {0} repetições, a divisão de {1} e {2} é igual a {3}. A constanto Phi.",repetições,ultimo,perultimo,aurea));
+        System.out.println(MessageFormat.format("Em uma sequencia de {0} repetições, a divisão de {1} e {2} é igual a {3}. A constante Phi.",repetições,ultimo,perultimo,aurea));
     }
     public void lerFibonacci(String fibonacci, int repetições){
         System.out.println(MessageFormat.format("A sequencia de Fibonacci com {0} digitos é: {1}",repetições,fibonacci));

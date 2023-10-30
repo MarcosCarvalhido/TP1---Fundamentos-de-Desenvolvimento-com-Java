@@ -6,14 +6,7 @@ public class App {
         Fibonacci fibonacci = new Fibonacci();
 
         fibonacci.CalcularFibonacci();
-        // String palavra1 = "Marcos: ";
-        // String palavra2 = "Rodrigues";
-        // int num = 1;
-        // String resultado;
-        
-        // resultado = palavra1 + num + palavra2;
-        
-        // System.out.println(resultado);
+   
     }
     
 }
